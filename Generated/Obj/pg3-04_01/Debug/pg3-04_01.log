@@ -1,47 +1,7 @@
-﻿  StringUtility.cpp
-  DirectXCommon.cpp
-  WinApp.cpp
-  GameScene.cpp
-  TextureManager.cpp
-  ImGuiManager.cpp
-  Novice.cpp
-  ClearScene.cpp
-  GameManeger.cpp
-  IScene.cpp
-  main.cpp
-  StageScene.cpp
-  TitleScene.cpp
-  pg3-04_01.vcxproj -> C:\Users\mgrmg\Downloads\pg3-04_01-master\Generated\Outputs\Debug\pg3-04_01.exe
-  C:\KamataEngine\DirectXGame\Resources\axis\axis.obj
-  C:\KamataEngine\DirectXGame\Resources\cube\cube.obj
-  2 個のファイルをコピーしました
-  C:\KamataEngine\DirectXGame\Resources\debugfont.png
-  C:\KamataEngine\DirectXGame\Resources\fanfare.wav
-  C:\KamataEngine\DirectXGame\Resources\kamata.ico
-  C:\KamataEngine\DirectXGame\Resources\mokugyo.wav
-  C:\KamataEngine\DirectXGame\Resources\sample.png
-  C:\KamataEngine\DirectXGame\Resources\tex1.png
-  C:\KamataEngine\DirectXGame\Resources\uvChecker.png
-  C:\KamataEngine\DirectXGame\Resources\white1x1.png
-  C:\KamataEngine\DirectXGame\Resources\axis\axis.jpg
-  C:\KamataEngine\DirectXGame\Resources\axis\axis.mtl
-  C:\KamataEngine\DirectXGame\Resources\axis\axis.obj
-  C:\KamataEngine\DirectXGame\Resources\cube\cube.jpg
-  C:\KamataEngine\DirectXGame\Resources\cube\cube.mtl
-  C:\KamataEngine\DirectXGame\Resources\cube\cube.obj
-  C:\KamataEngine\DirectXGame\Resources\shaders\Obj.hlsli
-  C:\KamataEngine\DirectXGame\Resources\shaders\ObjPS.hlsl
-  C:\KamataEngine\DirectXGame\Resources\shaders\ObjVS.hlsl
-  C:\KamataEngine\DirectXGame\Resources\shaders\Primitive.hlsli
-  C:\KamataEngine\DirectXGame\Resources\shaders\PrimitivePS.hlsl
-  C:\KamataEngine\DirectXGame\Resources\shaders\PrimitiveVS.hlsl
-  C:\KamataEngine\DirectXGame\Resources\shaders\Shape.hlsli
-  C:\KamataEngine\DirectXGame\Resources\shaders\ShapePS.hlsl
-  C:\KamataEngine\DirectXGame\Resources\shaders\ShapeVS.hlsl
-  C:\KamataEngine\DirectXGame\Resources\shaders\Sprite.hlsli
-  C:\KamataEngine\DirectXGame\Resources\shaders\SpritePS.hlsl
-  C:\KamataEngine\DirectXGame\Resources\shaders\SpriteVS.hlsl
-  C:\KamataEngine\DirectXGame\Resources\shaders\Terrain.hlsli
-  C:\KamataEngine\DirectXGame\Resources\shaders\TerrainPS.hlsl
-  C:\KamataEngine\DirectXGame\Resources\shaders\TerrainVS.hlsl
-  29 個のファイルをコピーしました
+﻿  pg3-04_01.vcxproj -> C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\Generated\Outputs\Debug\pg3-04_01.exe
+  0 個のファイルをコピーしました
+  'C:\KamataEngine\DirectXGame\Resources' は、内部コマンドまたは外部コマンド、
+  操作可能なプログラムまたはバッチ ファイルとして認識されていません。
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: コマンド "xcopy C:\KamataEngine\DirectXGame\Resources .\NoviceResources /S /E /I /D /R /Y
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: xcopy C:\KamataEngine\DirectXGame\Resources "C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\Generated\Outputs\Debug\NoviceResources" /S /E /I /D /R /Y
+C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" はコード 9009 で終了しました。
