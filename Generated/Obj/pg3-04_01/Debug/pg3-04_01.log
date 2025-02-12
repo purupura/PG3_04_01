@@ -1,7 +1,1097 @@
-﻿  pg3-04_01.vcxproj -> C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\Generated\Outputs\Debug\pg3-04_01.exe
-  0 個のファイルをコピーしました
-  'C:\KamataEngine\DirectXGame\Resources' は、内部コマンドまたは外部コマンド、
-  操作可能なプログラムまたはバッチ ファイルとして認識されていません。
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: コマンド "xcopy C:\KamataEngine\DirectXGame\Resources .\NoviceResources /S /E /I /D /R /Y
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: xcopy C:\KamataEngine\DirectXGame\Resources "C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\Generated\Outputs\Debug\NoviceResources" /S /E /I /D /R /Y
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets(166,5): error MSB3073: :VCEnd" はコード 9009 で終了しました。
+﻿  Command.cpp
+  InputHandler.cpp
+  main.cpp
+  Player.cpp
+  Scene.cpp
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): error C2220: 次の警告はエラーとして処理されます
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x2e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): error C2220: 次の警告はエラーとして処理されます
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x32 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x30 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): error C2220: 次の警告はエラーとして処理されます
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x33 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x31 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x34 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x32 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): error C2220: 次の警告はエラーとして処理されます
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x32 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x34 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x39 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x33 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x35 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x3a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x36 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x34 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x20 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x3c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x5c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x21 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x39 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x7d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x3d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x22 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x3a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x7e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x3e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x4b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x3c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x7f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x72 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x4d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x3d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x80 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x4f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x3e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x73 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x50 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0xe7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x72 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x74 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x51 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0xe9 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x73 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x75 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x53 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0xec から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x74 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x97 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x55 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x75 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x98 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x56 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x97 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x99 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x57 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x98 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x9a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Player.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x59 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x99 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0xe5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0xe7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x5b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x9a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x11d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x5d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x11f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0xe5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x5f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0xe7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbb から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x11d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbc から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\InputHandler.h(1,1): warning C4828: オフセット 0x11f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbe から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbf から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xc1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x20 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xc4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x21 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x22 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x4b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x20 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x4d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x21 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x4f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x50 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x22 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x121 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x4b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x123 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x51 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x4d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x125 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x4f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x53 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x126 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x50 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x55 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x51 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x56 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x127 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x53 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x57 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x129 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x55 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x59 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x16c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x5b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x56 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x16d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x5d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x57 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x5f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x16e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x59 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbb から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x5b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x19d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbc から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x5d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x19f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x5f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbb から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbe から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbc から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbf から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbd から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xc1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbe から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xbf から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xc4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xc1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0xc4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x11f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x121 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x121 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x123 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x251 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x123 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x125 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x254 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x125 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ab から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x126 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x126 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x127 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ac から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x127 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x129 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ad から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x16c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x129 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2b0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x16d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2b2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x16c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x16e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2b3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x16d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x19d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x16e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x19f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x19d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e6 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x19f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e9 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ea から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x1a5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x390 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x392 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x251 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x395 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x254 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3ec から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ab から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3ed から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x24f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3ee から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ac から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x251 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3f1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ad から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x254 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2b0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3f3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ab から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2b2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3f4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ac から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2b3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x423 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ad から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x425 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2b0 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x426 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2b2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x427 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2b3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e6 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x429 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e2 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x42a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e9 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x42b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ea から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e5 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e6 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e8 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2e9 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x2ea から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x390 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x392 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x2e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x395 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3ec から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x38f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x30 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3ed から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x31 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x390 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3ee から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x32 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x392 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3f1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x34 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x395 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3f3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x35 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3ec から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3f4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x36 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x423 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3ed から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x5c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3ee から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x425 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x7d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3f1 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x426 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x7e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3f3 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x427 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x7f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x3f4 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x429 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x80 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x423 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0xe7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x425 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x42a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0xe9 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x426 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x42b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'InputHandler.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0xec から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x427 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x429 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x42a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Command.h(1,1): warning C4828: オフセット 0x42b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Command.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x2e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x30 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x31 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x32 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x34 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x35 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x36 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x5c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x7d から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x7e から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x7f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x80 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0xe7 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0xe9 から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0xec から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10a から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10b から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10c から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\Player.h(1,1): warning C4828: オフセット 0x10f から始まる、現在のソースの文字セット (コードページ 65001) では使用できない文字がファイルに含まれています。
+  (ソース ファイル 'Scene.cpp' をコンパイルしています)
+  
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\main.cpp(12,2): error C2065: 'Scene': 定義されていない識別子です。
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\main.cpp(12,9): error C2065: 'scene': 定義されていない識別子です。
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\main.cpp(12,21): error C2061: 構文エラー: 識別子 'Scene'
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\main.cpp(13,2): error C2065: 'scene': 定義されていない識別子です。
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\main.cpp(29,3): error C2065: 'scene': 定義されていない識別子です。
+C:\Users\mgrmg\OneDrive\デスクトップ\PG04_01\PG3_04_01\pg3-04_01-master\main.cpp(33,3): error C2065: 'scene': 定義されていない識別子です。
